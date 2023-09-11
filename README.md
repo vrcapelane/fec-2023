@@ -1,4 +1,4 @@
-# Resumo do Projeto - fec-2023
+# Projeto de Reconhecimento Facial em Tempo Real (FEC-2023)
 
 O projeto apresentado na Feira de Profissões da UNIARA em agosto de 2023 é um sistema de reconhecimento facial em tempo real, desenvolvido com a utilização das tecnologias Python, OpenCV e Google Firebase.
 
