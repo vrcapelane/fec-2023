@@ -1,5 +1,4 @@
-# fec-2023
-Resumo do Projeto
+# Resumo do Projeto - fec-2023
 
 O projeto apresentado na Feira de Profissões da UNIARA em agosto de 2023 é um sistema de reconhecimento facial em tempo real, desenvolvido com a utilização das tecnologias Python, OpenCV e Google Firebase.
 
@@ -26,8 +25,10 @@ Aplicações Potenciais:
 Este projeto demonstra a aplicação prática das tecnologias modernas para resolver problemas do mundo real e destaca as habilidades e conhecimentos adquiridos durante o curso na UNIARA.
 
 # IMPORTANTE
-Para executar sem abrir o projeto basta instalar o python e acessar a pasta dist/main e executar o arquivo main.exe
-Para fechar a aplicação basta pressionar a tecla 'q'
++ Para executar sem abrir o projeto basta instalar o python e acessar a pasta dist/main e executar o arquivo main.exe
+
++ Para fechar a aplicação basta pressionar a tecla 'q'
 
 # Demonstação
+
 ![image](https://github.com/vrcapelane/fec-2023/blob/main/Exemplo.png)
